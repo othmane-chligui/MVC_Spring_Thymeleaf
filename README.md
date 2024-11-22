@@ -1,7 +1,7 @@
 - **Login Page**
 <img src="img/login.JPG">
 - **Patient List**
-<img src="img/home.JPG">
+<img src="img/homeJPG.JPG">
 - **Patient User_List**
 <img src="img/homeuser.JPG">
 - **Add/Edit Patient Form**
